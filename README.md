@@ -1,7 +1,7 @@
-# 👋 Xin chào!
+# 👋 Xin chào! Tôi là Mai Mỹ Quyên
 
-🎓 Tôi là sinh viên ngành Công nghệ thông tin tại Học viện Công nghệ Bưu chính Viễn thông
-🌱 Hiện đang học tập và thực hành về phát triển Web
+- 🔭 Sinh viên ngành Công nghệ thông tin tại Học viện Công nghệ Bưu chính Viễn thông
+- 🌱 Hiện đang học tập và thực hành về phát triển Web
 
 ---
 
