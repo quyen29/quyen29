@@ -7,10 +7,10 @@
 
 ## 🧠 Kỹ năng
 
-- Ngôn ngữ lập trình: `C++`, `Java`, `Python`, `JavaScript`
-- Web: `HTML`, `CSS`, `JavaScript`, `ReactJS`, `NodeJS`
-- Cơ sở dữ liệu: `SQLServer`, `MySQL` 
-- Công cụ & Framework: `Git`, `VSCode`, `Docker`
+- Ngôn ngữ lập trình: `C++`, `Java`, `Python`, `JavaScript`, `TypeScript`
+- Web: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `ReactJS`, `NodeJS`
+- Cơ sở dữ liệu: `SQLServer`, `MySQL`, `PostgreSQL`, `Firebase`, `Redis`
+- Công cụ & Framework: `Git`, `VSCode`, `Docker`, `Postman`, `OpenCv`, `YOLO`, `PaddleOCR`
 
 ---
 
